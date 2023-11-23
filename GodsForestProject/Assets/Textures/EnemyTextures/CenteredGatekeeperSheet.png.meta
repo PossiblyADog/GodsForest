@@ -1,0 +1,1202 @@
+fileFormatVersion: 2
+guid: 95bf41febed81c14f96a127182a70f3b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d4b5f660485949ba59ca9ea27f9c9
+      internalID: -332862464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 468
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264da078a4675d24ba4a6bb48ec2ec3a
+      internalID: 104483575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 468
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030e94b676a6a9d4a8e1f0b43a8ff53b
+      internalID: 1770222734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 468
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0f3986c91cf234e98f3f5cfe35d8d2
+      internalID: 361150549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 468
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70ecd7dedd260c46810606c2bdb0d75
+      internalID: 162091598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 468
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453b29a0649a659419540f6ada10a40a
+      internalID: 636163106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 468
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6addabe44f36124ab9e37d19aa0b432
+      internalID: 1288570916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 468
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fdfc4688747a04f953d024335e9902
+      internalID: -1651204048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d115167fcf27f3408c1bae5abad9f99
+      internalID: -1344347497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 375
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae37d72ba0b5f904999dea690a017c10
+      internalID: -187183811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 375
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e8fbccf8b2394fb9fe5b37a89421c
+      internalID: 168663223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 375
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068edd80a77fb7749be622154f70c444
+      internalID: 555023131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 375
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6f8af25e918234d9e633a51310414d
+      internalID: -1375662263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_13
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 375
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2b7d3b557e4274cafd11023817d82b
+      internalID: -1704438555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 375
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29987d33400f6145abbd586ecac7acc
+      internalID: -1076247578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 375
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5be9eb119be224b879581da41c5748
+      internalID: -1153221362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4de12ce129fbd6469e862c8a1662043
+      internalID: 1459596313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 282
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd5c6bd078e46c4fbc16a3116014f4c
+      internalID: -341833716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 282
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c095b1633ab282f4eaa2fc7aab3a762b
+      internalID: 1290331203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_19
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 282
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0daa691af6b7449af601de762e86a0
+      internalID: 459906881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_20
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 282
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d65354f2ac84954bbd571d6d77d0318
+      internalID: 1086967445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_21
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 282
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6323b40660faf5641a768d781dfb1079
+      internalID: -1484145164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 282
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd261a34c0b42549bff6e881b5f59b9
+      internalID: 311095897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 282
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85324a2f7e91ad4aa1fed665993e3b3
+      internalID: -387527609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1fdf9e992f5314eaa556c5ff33b646
+      internalID: -1908850601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 189
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d26e32ea896614181a728bcbc2251c
+      internalID: 1744596207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 189
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0879c15f83a52243935b11162b6e6b5
+      internalID: -906535592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 189
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d4bc0ce1c1b394392959e5c40d3b2b
+      internalID: -1584065338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_28
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 189
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f03e60e3a0fad41b05c98d519981c9
+      internalID: 1209925915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_29
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 189
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb4e8af8e0e924e9fa75c1b2ea4b7c
+      internalID: -2104418869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 189
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f1b5d1f84db754287b11821164ecdb
+      internalID: 1504788022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 189
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ecf02ad2574f84a86ec6fd4d9eddaf
+      internalID: 1401390312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03ec50a3c17de4f976d37e831c0614
+      internalID: -1258967965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 96
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50227895c0ce49946864109dd8e4ecbd
+      internalID: -1961844050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_34
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 96
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bac549a5b4dad448b9342c375aff97c
+      internalID: 781350646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_35
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 96
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0646eae976155d4bb37a410bfeb9563
+      internalID: 788436131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_36
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 96
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fc00c1efcb92a428b7c5c778bbb9e4
+      internalID: 1648676787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_37
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 96
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb2e3e60ec9d734480ed1581b997680
+      internalID: 544346125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 96
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd8eac99e243b64bab4e149efa135e6
+      internalID: 1524349612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 96
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73986f50e571cd44b75de32bab9cddb
+      internalID: -1122958960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5d73c00e7852942b66720d006d4b94
+      internalID: -1845314654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fd01b81e8529b4cb5b15680da427df
+      internalID: 1541751832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058342f70365eb84c9e5cd51327e8cec
+      internalID: 998246703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_43
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc44410dc11b40499db60592fcc6c1a
+      internalID: -2067087925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_44
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 3
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306840c5e5c5489488943cbe465c233a
+      internalID: 176622637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_45
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedab295b06573644a05e6a05f90cc07
+      internalID: 222909189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30658d56439e3ff40807f92a1c709be6
+      internalID: -2074487478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenteredGatekeeperSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 3
+        width: 196
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2134dfe557e2834b8168a0bf06f105c
+      internalID: 1861337268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CenteredGatekeeperSheet_13: -1704438555
+      CenteredGatekeeperSheet_21: -1484145164
+      CenteredGatekeeperSheet_19: 459906881
+      CenteredGatekeeperSheet_11: 555023131
+      CenteredGatekeeperSheet_6: 1288570916
+      CenteredGatekeeperSheet_47: 1861337268
+      CenteredGatekeeperSheet_43: -2067087925
+      CenteredGatekeeperSheet_44: 176622637
+      CenteredGatekeeperSheet_37: 544346125
+      CenteredGatekeeperSheet_2: 1770222734
+      CenteredGatekeeperSheet_46: -2074487478
+      CenteredGatekeeperSheet_45: 222909189
+      CenteredGatekeeperSheet_32: -1258967965
+      CenteredGatekeeperSheet_29: -2104418869
+      CenteredGatekeeperSheet_28: 1209925915
+      CenteredGatekeeperSheet_25: 1744596207
+      CenteredGatekeeperSheet_30: 1504788022
+      CenteredGatekeeperSheet_34: 781350646
+      CenteredGatekeeperSheet_41: 1541751832
+      CenteredGatekeeperSheet_0: -332862464
+      CenteredGatekeeperSheet_26: -906535592
+      CenteredGatekeeperSheet_8: -1344347497
+      CenteredGatekeeperSheet_1: 104483575
+      CenteredGatekeeperSheet_40: -1845314654
+      CenteredGatekeeperSheet_4: 162091598
+      CenteredGatekeeperSheet_35: 788436131
+      CenteredGatekeeperSheet_10: 168663223
+      CenteredGatekeeperSheet_33: -1961844050
+      CenteredGatekeeperSheet_12: -1375662263
+      CenteredGatekeeperSheet_31: 1401390312
+      CenteredGatekeeperSheet_3: 361150549
+      CenteredGatekeeperSheet_9: -187183811
+      CenteredGatekeeperSheet_42: 998246703
+      CenteredGatekeeperSheet_39: -1122958960
+      CenteredGatekeeperSheet_22: 311095897
+      CenteredGatekeeperSheet_18: 1290331203
+      CenteredGatekeeperSheet_15: -1153221362
+      CenteredGatekeeperSheet_27: -1584065338
+      CenteredGatekeeperSheet_14: -1076247578
+      CenteredGatekeeperSheet_23: -387527609
+      CenteredGatekeeperSheet_38: 1524349612
+      CenteredGatekeeperSheet_20: 1086967445
+      CenteredGatekeeperSheet_36: 1648676787
+      CenteredGatekeeperSheet_7: -1651204048
+      CenteredGatekeeperSheet_17: -341833716
+      CenteredGatekeeperSheet_5: 636163106
+      CenteredGatekeeperSheet_16: 1459596313
+      CenteredGatekeeperSheet_24: -1908850601
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

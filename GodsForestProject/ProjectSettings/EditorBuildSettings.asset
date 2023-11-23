@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: df80ad77ef8ef4948a1567dc8cb2f7f2
+  - enabled: 1
+    path: Assets/Scenes/Camp.unity
+    guid: e46114da7e8dc524390697f4ee7bad08
+  - enabled: 1
+    path: Assets/Scenes/PettyCrime.unity
+    guid: 1805f5824818f5d4ba62393085b8b42f
+  - enabled: 1
+    path: Assets/Scenes/MinorSin.unity
+    guid: 2b6756a08bb68154e845e7511cfbaf28
+  - enabled: 1
+    path: Assets/Scenes/MajorSin.unity
+    guid: 7c24fbef0b854cf4aaed6dde662f8975
+  - enabled: 1
+    path: Assets/Scenes/TestCamp.unity
+    guid: 41211ca434243434ea490741a18636ca
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: f87be44fae917684db01f6718c59a7e9, type: 2}

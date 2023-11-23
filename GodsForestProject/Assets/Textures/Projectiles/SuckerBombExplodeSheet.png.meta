@@ -1,0 +1,1686 @@
+fileFormatVersion: 2
+guid: a824bf5d5b284cc43848cf7490caed79
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094f275f4cc93214e8eb54e9d87dc1e5
+      internalID: -957445617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 607
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbe28dfb3c907047ab7140d8d3ba118
+      internalID: -152710525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 607
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6900347fcf9e44c419665e13c455a272
+      internalID: -1668765021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 607
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ee759aef13709449be441907fa3a8b
+      internalID: -2018138632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 607
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717021759bb9c314e8c8a2b38e4e3500
+      internalID: -751636484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 607
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa211dbb78ae06f40a4c9931285b80fb
+      internalID: -292222682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 607
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a0b35ac800d4a4d825eb7d4701a2e8
+      internalID: 1869136063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 607
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6fa9af7081edb469efac5333d7f8e3
+      internalID: -1702022192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 607
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd57ab688d3ae04f9f63ca9807c0df3
+      internalID: 167306133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 607
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f841d8c2326b483488e57475e3e896ac
+      internalID: -872148490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5480bb690247a0843b4d82e312a587e5
+      internalID: -1130037977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049cab551928d8047b7cd03cd3cdbd2e
+      internalID: -1314326369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0b06237cbd6a540b992a3740d422b7
+      internalID: 1369505168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b6ccdce5a32624baab3ba2156fa1d5
+      internalID: 2087991816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ba64893a29484983b0ef7686fd3a4
+      internalID: -1414073181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab204150bc77b04188b9e5c4422f054
+      internalID: 326910514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f73d4b3c3f7a134ab630f7b3a9979c5
+      internalID: 418618728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3acc15ff469dd4e8fe2100e15f05f8
+      internalID: -1554719168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b380b6fe1946c9a42bb6556ddf6b1782
+      internalID: -828608599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d3c0dea22a5bb449a40d9b0c62b99b
+      internalID: -740711392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cc4f48343ee5e47b0fd490e792157e
+      internalID: 1730913663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 407
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fff7346cc162a44bb0ec1ae8edfb8a2
+      internalID: 149907454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 407
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc51a49afd7224b42899f300a231cb28
+      internalID: -1470281434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 407
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27767416f3b4b2c44a5661f4aec341b4
+      internalID: -1547643589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 407
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5f77623d661cd4d9ebf6eefc64473c
+      internalID: -1947847611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 407
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a339b0096eac74e877f781f8f85d09
+      internalID: 829166905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 407
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4827815017a90f4b92d10935f595ebd
+      internalID: 2119635464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 407
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8481f3e28e4a35746b773eabf77374a1
+      internalID: -938909439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 407
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6231daba134b44896487527e6ec66a
+      internalID: 531733716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 407
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4490dc2b39bdf644aa2afd40a6fbc02a
+      internalID: 294395575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d04fe3685a6ae1439e7221d76b5aa2a
+      internalID: -1564131358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 307
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c568cc4732a4c84459af58b65d6fa0b9
+      internalID: -443030389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 307
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727c702f43eb7b4e8366d2f4020b3d7
+      internalID: -1122487754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 307
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e2f243e9eef8f4fa94968478a56874
+      internalID: 46282937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 307
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63135f5053de64388d684de93c69fd
+      internalID: -281347682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 307
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f7f2a10b6ca045b03310e6361e62f
+      internalID: -1735057232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 307
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92293e5f0fd79ac4991f8c79a5d9434a
+      internalID: 60468866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 307
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100517bc5c014b4419e0d911af6cecb8
+      internalID: 1133274271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 307
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cbf67252b618f4c9165b83e9a6907d
+      internalID: -414017283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 307
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1201f96a6f8d29b4a9da6d0bef97f3f4
+      internalID: 544219967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b68ab6cab48724388e239a42680a93
+      internalID: -336407584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 207
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e2ad58f4bb2b34189a2c404f35def2
+      internalID: -2027792953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 207
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd83d4a69dcb00b46b46fca509866a2c
+      internalID: 1964708491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 207
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ee9c47387d88349822280af6a49376
+      internalID: 1567873305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 207
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98aaad8b09c4ae47a9faae849279781
+      internalID: -2063718792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 207
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881901e8a1d62fb46901175881b952c6
+      internalID: -1084245708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 207
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9c391385ec2d74a89a8f7218bcc5ae
+      internalID: -500473365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 207
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98810264580d17646bc24acca5ebb03f
+      internalID: -166636140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 207
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd64412b2ea177f4b8326aafc287fce4
+      internalID: -968005166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 207
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b829352bdaa95e44b666f4e82d8a84a
+      internalID: 69912311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e81d15361c0948ac2778e2fef5fe5
+      internalID: 435054142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 107
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ae54ab9980a43419ee4ef0ede4c531
+      internalID: 1525521992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 107
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd701c1b7689824a9f66347f2c11907
+      internalID: -48478001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 107
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af06927a69a4bd4abc9f65ad3c90fee
+      internalID: -1163320304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 107
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2720fddff3d0cdd4fbe5225e60f687df
+      internalID: -533049360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 107
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7383905551f27748862e71384dddf23
+      internalID: -678688538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 107
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fba52b555b35a4f983f7014b304fc6
+      internalID: -734885980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 107
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931bc38d09574bb47ad5a15562fe1bb5
+      internalID: 1458666616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 107
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15a6f1917121964dba15eb459dce1d3
+      internalID: -1990833596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 107
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b1e432f749bd941a062d1e6f25ba59
+      internalID: 698312993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd75ef3520d121a49b6b5aa6caa58567
+      internalID: -358454769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802e872328b652e4981f358c3f45db1d
+      internalID: 1767566108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420bd097abd00cb45a4813664d8e3cac
+      internalID: -779477053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1882be8e93081394885d4aa0987a6b63
+      internalID: -1128115531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c059598d19a08846814827971dff57f
+      internalID: -2118202975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fea75430b9b4d4086f059b15f75357
+      internalID: 1542717926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b5c9c6497402548981d469efea3874
+      internalID: -1586013736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a332d682cc32b4781e53af1f9578e0
+      internalID: -721493404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0c46042755c564d8058f12c689fbf2
+      internalID: -1826490327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuckerBombExplodeSheet_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c62bae723473a4ba260be8339c6245
+      internalID: -967738469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SuckerBombExplodeSheet_1: -152710525
+      SuckerBombExplodeSheet_16: 418618728
+      SuckerBombExplodeSheet_46: -500473365
+      SuckerBombExplodeSheet_57: 1458666616
+      SuckerBombExplodeSheet_67: -721493404
+      SuckerBombExplodeSheet_69: -967738469
+      SuckerBombExplodeSheet_32: -1122487754
+      SuckerBombExplodeSheet_43: 1567873305
+      SuckerBombExplodeSheet_18: -828608599
+      SuckerBombExplodeSheet_19: -740711392
+      SuckerBombExplodeSheet_23: -1547643589
+      SuckerBombExplodeSheet_48: -968005166
+      SuckerBombExplodeSheet_27: -938909439
+      SuckerBombExplodeSheet_24: -1947847611
+      SuckerBombExplodeSheet_17: -1554719168
+      SuckerBombExplodeSheet_33: 46282937
+      SuckerBombExplodeSheet_68: -1826490327
+      SuckerBombExplodeSheet_47: -166636140
+      SuckerBombExplodeSheet_5: -292222682
+      SuckerBombExplodeSheet_53: -1163320304
+      SuckerBombExplodeSheet_63: -1128115531
+      SuckerBombExplodeSheet_37: 1133274271
+      SuckerBombExplodeSheet_58: -1990833596
+      SuckerBombExplodeSheet_0: -957445617
+      SuckerBombExplodeSheet_59: 698312993
+      SuckerBombExplodeSheet_8: 167306133
+      SuckerBombExplodeSheet_55: -678688538
+      SuckerBombExplodeSheet_20: 1730913663
+      SuckerBombExplodeSheet_21: 149907454
+      SuckerBombExplodeSheet_38: -414017283
+      SuckerBombExplodeSheet_64: -2118202975
+      SuckerBombExplodeSheet_66: -1586013736
+      SuckerBombExplodeSheet_2: -1668765021
+      SuckerBombExplodeSheet_62: -779477053
+      SuckerBombExplodeSheet_7: -1702022192
+      SuckerBombExplodeSheet_65: 1542717926
+      SuckerBombExplodeSheet_14: -1414073181
+      SuckerBombExplodeSheet_11: -1314326369
+      SuckerBombExplodeSheet_4: -751636484
+      SuckerBombExplodeSheet_42: 1964708491
+      SuckerBombExplodeSheet_56: -734885980
+      SuckerBombExplodeSheet_6: 1869136063
+      SuckerBombExplodeSheet_50: 435054142
+      SuckerBombExplodeSheet_13: 2087991816
+      SuckerBombExplodeSheet_40: -336407584
+      SuckerBombExplodeSheet_61: 1767566108
+      SuckerBombExplodeSheet_22: -1470281434
+      SuckerBombExplodeSheet_44: -2063718792
+      SuckerBombExplodeSheet_35: -1735057232
+      SuckerBombExplodeSheet_3: -2018138632
+      SuckerBombExplodeSheet_10: -1130037977
+      SuckerBombExplodeSheet_29: 294395575
+      SuckerBombExplodeSheet_28: 531733716
+      SuckerBombExplodeSheet_9: -872148490
+      SuckerBombExplodeSheet_25: 829166905
+      SuckerBombExplodeSheet_26: 2119635464
+      SuckerBombExplodeSheet_12: 1369505168
+      SuckerBombExplodeSheet_15: 326910514
+      SuckerBombExplodeSheet_41: -2027792953
+      SuckerBombExplodeSheet_54: -533049360
+      SuckerBombExplodeSheet_45: -1084245708
+      SuckerBombExplodeSheet_30: -1564131358
+      SuckerBombExplodeSheet_49: 69912311
+      SuckerBombExplodeSheet_60: -358454769
+      SuckerBombExplodeSheet_34: -281347682
+      SuckerBombExplodeSheet_52: -48478001
+      SuckerBombExplodeSheet_51: 1525521992
+      SuckerBombExplodeSheet_31: -443030389
+      SuckerBombExplodeSheet_39: 544219967
+      SuckerBombExplodeSheet_36: 60468866
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
